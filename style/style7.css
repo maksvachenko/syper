@@ -1,0 +1,25 @@
+body{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.wrepper{
+	width: 900px;
+	height: 400px;
+	background-color:hotpink;
+	margin: 0 auto;
+}
+
+div {
+	width: 300px;
+	height: 300px;
+	background-color:blue;
+	float: left;
+}
+
+.yellow{
+	background-color:yellow;
+}
+.green{
+	background-color:green;
+}

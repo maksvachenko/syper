@@ -1,0 +1,33 @@
+body{
+	margin: 30px;
+	position: absolute;
+}
+
+
+
+
+.father{
+	height: 500px;
+	width: 500px;
+	background-color: gray;
+	position: relative;
+	right: 30px;
+}
+
+
+
+.son{
+	height: 200px;
+	width: 200px;
+	background-color: magenta;
+	position: absolute;
+	right: 100px;
+}
+.mother{
+	height: 200px;
+	width: 200px;
+	background-color: magenta;
+	position: absolute;
+	right: 200px;
+}
+

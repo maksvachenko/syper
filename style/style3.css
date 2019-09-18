@@ -1,0 +1,11 @@
+ul, li{
+	color: blue;
+
+}
+
+#magenta, li {
+	color: magenta;
+}
+ul li{
+	color: yellow;
+}
